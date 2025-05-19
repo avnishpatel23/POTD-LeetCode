@@ -1,6 +1,7 @@
 // 3024. Type of Triangle
 
 
+
 class Solution {
   public String triangleType(int[] nums) {
     Arrays.sort(nums);
